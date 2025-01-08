@@ -8,3 +8,5 @@ clip-interrogator/
 clip_interrogator.egg-info/
 dist/
 venv/
+venv
+clip_colab/.clip_colab_config.json
