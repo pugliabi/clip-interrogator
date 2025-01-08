@@ -1,0 +1,2 @@
+include clip_colab/data/*.txt
+include requirements.txt 

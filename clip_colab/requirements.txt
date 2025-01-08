@@ -1,0 +1,6 @@
+Pillow>=9.0.0
+tqdm>=4.65.0
+gradio>=3.35.2
+open_clip_torch>=2.20.0
+clip-interrogator>=0.5.4
+IPython>=8.0.0 
